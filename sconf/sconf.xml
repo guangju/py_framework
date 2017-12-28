@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf>
+  <master>
+    <server>127.0.0.1</server>
+    <port>8199</port>
+  </master>
+  <slave>
+    <server>127.0.0.1</server>
+    <port>8120</port>
+  </slave>
+</conf>
